@@ -13,3 +13,6 @@ h6 {
     font-size: 15px !important;
     font-family: Arial, Helvetica, sans-serif !important;
 }
+.opacity {
+    opacity: 0.50;
+}
