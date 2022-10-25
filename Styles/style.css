@@ -37,3 +37,6 @@ h6 {
 .icons li {
     margin-bottom: 18px !important;
 }
+.icons .fa-sharp {
+    width: 30px;
+}
