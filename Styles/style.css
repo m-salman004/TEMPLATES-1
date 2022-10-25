@@ -51,4 +51,7 @@ input  {
     margin-top: 16px !important;
     margin-bottom: 16px !important;
     margin-right: 50px !important;
+    background-color: #000;
+    color: #fff;
+    border: none;
 }
