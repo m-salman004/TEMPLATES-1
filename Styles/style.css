@@ -1,8 +1,8 @@
 .nav a{
     color: white !important;
 }
-i {
-    margin-left: 730px !important;
+.dropdown-item {
+    color: black !important;
 }
 h2 {
     letter-spacing: 2px !important;
@@ -15,4 +15,13 @@ h6 {
 }
 .opacity {
     opacity: 0.50;
+}
+.justify {
+    text-align: justify;
+}
+.container-sm {
+    /* background-color: beige; */
+    margin-left: 90px !important;
+    padding-right: 190px !important;
+
 }
