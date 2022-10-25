@@ -1,9 +1,11 @@
+/* Navbar */
 .nav a{
     color: white !important;
 }
 .nav-item .dropdown-item {
     color: black !important;
 }
+/* Heading */
 h2 {
     letter-spacing: 2px !important;
     font-family: sans-serif !important;
@@ -19,9 +21,4 @@ h6 {
 .justify {
     text-align: justify;
 }
-.container-sm {
-    /* background-color: beige; */
-    margin-left: 90px !important;
-    padding-right: 190px !important;
-
-}
+/* Footer */
