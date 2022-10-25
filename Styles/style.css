@@ -45,3 +45,10 @@ input  {
     padding: 8px;
     border: 1px solid #ccc;
 }
+/* Button */
+.rightbtn {
+    float: right !important;
+    margin-top: 16px !important;
+    margin-bottom: 16px !important;
+    margin-right: 50px !important;
+}
