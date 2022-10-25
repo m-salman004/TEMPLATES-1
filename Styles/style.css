@@ -1,7 +1,7 @@
 .nav a{
     color: white !important;
 }
-.dropdown-item {
+.nav-item .dropdown-item {
     color: black !important;
 }
 h2 {
