@@ -40,3 +40,8 @@ h6 {
 .icons .fa-sharp {
     width: 30px;
 }
+/* Form */
+input  {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
