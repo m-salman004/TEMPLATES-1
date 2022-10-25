@@ -55,3 +55,7 @@ input  {
     color: #fff;
     border: none;
 }
+.rightbtn:hover {
+    background-color: #ccc;
+    color: #000;
+}
