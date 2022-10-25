@@ -30,3 +30,10 @@ h6 {
 .fa-brands:hover {
     opacity:0.6 ;
 }
+/* Contact */
+.icons {
+    list-style-type: none;
+}
+.icons li {
+    margin-bottom: 18px !important;
+}
