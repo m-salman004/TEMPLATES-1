@@ -34,16 +34,22 @@ background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, F
     padding: 0%;
     margin: 0%;
 }
+.list{
+    display: list-item;
+    padding: 15px;
+    border-bottom: 1px solid;
+}
+.badge {
+    border-radius: 50%;
+    background-color: #000;
+    color: #fff;
+    float: right;
+}
 /* Footer */
 .image {
     width: 130% !important; 
     max-width: 100% !important;
     height: auto !important;
-}
-.list{
-    display: list-item;
-    padding: 15px;
-    border-bottom: 1px solid;
 }
 .fa-brands:hover {
     opacity:0.6 ;
