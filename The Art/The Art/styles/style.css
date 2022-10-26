@@ -1,3 +1,6 @@
 button {
     background-color: lightgrey !important;
 }
+.btn:hover {
+    background-color: darkgrey !important;
+}
