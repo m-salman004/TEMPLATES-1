@@ -1,2 +1,2 @@
 # TEMPLATES
-W3.CSS Templates
+W3.CSS Front-end Website Templates.
