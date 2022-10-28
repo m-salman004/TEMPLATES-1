@@ -11,3 +11,6 @@
 .text {
     letter-spacing: 5px;
 }
+#br-text {
+    padding: 8px 20px;
+}
