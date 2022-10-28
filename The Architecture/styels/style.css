@@ -1,3 +1,7 @@
 .collapse a {
     color: black !important;
 }
+#heroSection {
+    background-image: url(../assets/images/architect.jpg);
+    min-height: 100vh;
+}
