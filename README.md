@@ -1,2 +1,3 @@
 # TEMPLATES
-W3.CSS Front-end Website Templates.
+W3.CSC Templates.
+Front-end Website Templates Practice using HTML and CSS.
