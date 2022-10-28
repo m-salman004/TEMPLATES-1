@@ -4,4 +4,5 @@
 #heroSection {
     background-image: url(../assets/images/architect.jpg);
     min-height: 100vh;
+    background-repeat: no-repeat;
 }
